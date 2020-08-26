@@ -115,7 +115,6 @@ PMBacklogView.propTypes = {
   onSearchClick: PropTypes.func,
   onPaginationClick: PropTypes.func,
   onOrderBy: PropTypes.func, 
-  openDeleteModal: PropTypes.func,
   closeModal: PropTypes.func,
   onOption: PropTypes.func,
   inputChange: PropTypes.func,
